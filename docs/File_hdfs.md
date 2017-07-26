@@ -6,3 +6,5 @@ Why Hadoop over HPC(High performance Computing)
 
 ->Scenario-Turns out that when your dataset has, say, 1.5PB and the code to process it (for example a bunch of MapReduce jobs) has 1.5 MB, then it's more efficient to send the code to the data—residing on each node, which does both storage and compute—then the other way round, as seen in HPC...
 ->adding data after one merge pull request
+
+-----> adding data using GitHub desktop using Atom as editor and publishing the changes to the master on github.com
